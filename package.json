@@ -1,0 +1,11 @@
+{
+  "name":"ccpd-certificates"
+  ,"version":"0.0.1"
+  ,"dependencies":{
+    "docpad-plugin-jade":""
+    ,"docpad-plugin-livereload":""
+    ,"docpad-plugin-eco":""
+    ,"docpad-plugin-less":""
+    ,"docpad-plugin-haml":""
+  }
+}
